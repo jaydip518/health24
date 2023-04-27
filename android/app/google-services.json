@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "302297831145",
+    "project_id": "helath24",
+    "storage_bucket": "helath24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302297831145:android:afed752ed69863fa260278",
+        "android_client_info": {
+          "package_name": "com.example.medicine_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302297831145-c6j7djevhmt0bhr8cmfsjeflsee3ue69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicine_reminder",
+            "certificate_hash": "22f7882b3ac174d0e7ec5cdeb535e55548899749"
+          }
+        },
+        {
+          "client_id": "302297831145-nc2tcqq3vm4kkckb6hbg3087cn8l6frh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBengnZqeAotghp88P-PU-xXqVsvsRbLlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302297831145-nc2tcqq3vm4kkckb6hbg3087cn8l6frh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
